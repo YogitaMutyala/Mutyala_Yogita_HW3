@@ -1,2 +1,6 @@
-# Mutyala_Yogita_HW3
-Mutyala_Yogita_HW3
+## DSCI 552 Homework 3
+
+### Yogita Mutyala
+
+**ymutyala@usc.edu**
+

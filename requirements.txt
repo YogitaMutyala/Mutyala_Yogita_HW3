@@ -1,0 +1,5 @@
+List of libraries installed for this homework:
+1. Pandas
+2. NumPy
+3. pathlib
+4. scipy.stats
